@@ -12,7 +12,7 @@ Load Pmx-CCDIK information from PMX files
 Load bone/morph animation from VMD files
 
 ### VmdCamera
-Loads camera animations from VMD files
+Load camera animation from VMD files
 
 ### KawaiiPhysicsNode
 Load rigid-body/joint settings from PMX files, convert to KawaiiPhysics node configurations
