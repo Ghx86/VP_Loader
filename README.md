@@ -6,13 +6,13 @@ Unreal Engine5 VMD/PMX Importer Plugin
 ## Modules
 
 ### PmxIK
-Loads IK (Inverse Kinematics) information from PMX files
+Load IK information from PMX files
 
 ### Vmd
-Loads and exports bone animations and morph animations from VMD files
+Load bone animation/morph animation from VMD files
 
 ### VmdCamera
-Loads and exports camera animations from VMD files
+Loads camera animations from VMD files
 
 ### KawaiiPhysicsNode
-Loads rigidbody and joint settings from PMX files and converts them to KawaiiPhysics node configurations
+Load rigid-body/joint settings from PMX files, convert to KawaiiPhysics node configurations
