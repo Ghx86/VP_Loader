@@ -9,7 +9,7 @@ Unreal Engine5 VMD/PMX Importer Plugin
 Load IK information from PMX files
 
 ### Vmd
-Load bone animation/morph animation from VMD files
+Load bone/morph animation from VMD files
 
 ### VmdCamera
 Loads camera animations from VMD files
