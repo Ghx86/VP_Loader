@@ -6,7 +6,7 @@ Unreal Engine5 VMD/PMX Importer Plugin
 ## Modules
 
 ### PmxIK
-Load IK information from PMX files
+Load Pmx-CCDIK information from PMX files
 
 ### Vmd
 Load bone/morph animation from VMD files
