@@ -1,17 +1,18 @@
 # VP Loader
+UE5.6 or higher
 
-Unreal Engine用のVMD/PMXローダープラグイン
+Unreal Engine5 VMD/PMX Importer Plugin
 
-## モジュール
+## Modules
 
 ### PmxIK
-PMXファイルからIK（Inverse Kinematics）情報を読み込む
+Loads IK (Inverse Kinematics) information from PMX files
 
 ### Vmd
-VMDファイルのボーンアニメーションとモーフアニメーションを読み込み・書き出し
+Loads and exports bone animations and morph animations from VMD files
 
 ### VmdCamera
-VMDファイルのカメラアニメーションを読み込み・書き出し
+Loads and exports camera animations from VMD files
 
 ### KawaiiPhysicsNode
-PMXファイルの剛体・ジョイント設定を読み込み、KawaiiPhysics用のノード設定に変換
+Loads rigidbody and joint settings from PMX files and converts them to KawaiiPhysics node configurations
